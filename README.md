@@ -1,6 +1,6 @@
 # Hi 👋 My name is Marwa Mohamed
 
-## ICT Student | Full Stack Development Learner
+## ICT | Full Stack Development
 
 - 🌍 I'm based in Bahrain  
 - ✉️ You can contact me at [marwa.alkhuzaei@gmail.com](mailto:marwa.alkhuzaei@gmail.com)  
